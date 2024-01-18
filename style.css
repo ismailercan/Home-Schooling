@@ -1,0 +1,23 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+
+#container{
+    width: 500px;
+    height: 400px;
+    border: solid black 1px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+
+}
+
+button{
+    background-color: #fff;
+    border: 1px solid gainsboro;
+    border-radius: 3px;
+    cursor: pointer;
+    padding: 2px;
+}
+
